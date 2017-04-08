@@ -1,0 +1,11 @@
+{
+    "sourceMaps": true,
+    "presets": [
+        "latest"
+    ],
+    "plugins": [
+        "transform-react-jsx",
+        "transform-object-rest-spread",
+        "rewire"
+    ]
+}
